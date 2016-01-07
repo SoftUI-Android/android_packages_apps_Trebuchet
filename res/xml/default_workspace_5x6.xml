@@ -106,15 +106,6 @@
 
     <!-- Screen [2] -->
 
-    <appwidget
-        launcher:packageName="com.cyanogenmod.eleven"
-        launcher:className="com.cyanogenmod.eleven.appwidgets.AppWidgetLarge"
-        launcher:screen="2"
-        launcher:x="0"
-        launcher:y="0"
-        launcher:spanX="6"
-        launcher:spanY="2" />
-
     <favorite
         launcher:packageName="com.android.email"
         launcher:className="com.android.email.activity.Welcome"
